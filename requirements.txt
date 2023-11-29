@@ -11,4 +11,6 @@ django-rest-swagger==2.2.0
 selenium==4.7.2
 psycopg2==2.9.4
 
+
 #bduasiba
+#nduia
